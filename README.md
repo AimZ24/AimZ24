@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yusuf Rochman</h1>
 <h3 align="center">A Full-Stack Developer and Business Owner From Threelogy</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aimz24&label=Profile%20views&color=0e75b6&style=flat" alt="aimz24" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aimz24" alt="aimz24" /></a> </p>
 
 - 🌱 I’m currently learning **Laravel, Flutter Just that. I can do everything (NPD)**
